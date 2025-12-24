@@ -1,6 +1,6 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18049277.svg)](https://doi.org/10.5281/zenodo.18049277)
 # PHANTASM: Ghost Layering Protocol
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18049277.svg)](https://doi.org/10.5281/zenodo.18049277)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c?style=for-the-badge&logo=pytorch)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
