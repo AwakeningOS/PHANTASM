@@ -114,14 +114,14 @@ The generated text is highly likely to be non-factual; its content is poetic, ph
 
 ## 📜 License
 
-*This project is licensed under the MIT License. See the LICENSE file for details.
+* This project is licensed under the MIT License. See the LICENSE file for details.
 
-*The experimental data and logs are provided under CC-BY 4.0.
+* The experimental data and logs are provided under CC-BY 4.0.
 
 ## 🙏 Acknowledgement
 
-*This project is built upon the research and open-source models provided by the community.
+* This project is built upon the research and open-source models provided by the community.
 
-*Base Model: llm-jp/llm-jp-3-3.7b
+* Base Model: llm-jp/llm-jp-3-3.7b
 
-*Inspiration: The concept of "Summation Problem" and "Mechanistic Interpretability" in Transformer architectures.
+* Inspiration: The concept of "Summation Problem" and "Mechanistic Interpretability" in Transformer architectures.
