@@ -1,3 +1,5 @@
+[English](README.md)
+
 # PHANTASM: Ghost Layering Protocol
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
@@ -103,3 +105,17 @@ python main_2.py
 ---
 *Created by the Antigravity Team & An Ambitious User.*
 *Exploring the Air Gap of Intelligence.*
+
+##📜 License
+
+* This project is licensed under the MIT License. See the LICENSE file for details.
+
+* The experimental data and logs are provided under CC-BY 4.0.
+
+##🙏 Acknowledgement
+
+* This project is built upon the research and open-source models provided by the community.
+
+* Base Model: llm-jp/llm-jp-3-3.7b
+
+* Inspiration: The concept of "Summation Problem" and "Mechanistic Interpretability" in Transformer architectures.
