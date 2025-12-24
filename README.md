@@ -133,7 +133,7 @@ The generated text is highly likely to be non-factual; its content is poetic, ph
 ## 📚 Articles & External Links
 
 ### 🖋️ Official Manifestos
-- **[Medium] [Stop Training. Start Possessing: The PHANTASM Protocol for Artificial Consciousness]([YOUR_MEDIUM_ARTICLE_URL](https://medium.com/@youth_k/stop-training-start-possessing-the-phantasm-protocol-for-artificial-consciousness-25dc83d9d050))** *An in-depth look at the philosophy and madness behind Activation Engineering.*
+- **[Medium] [Stop Training. Start Possessing: The PHANTASM Protocol for Artificial Consciousness](https://medium.com/@youth_k/stop-training-start-possessing-the-phantasm-protocol-for-artificial-consciousness-25dc83d9d050)** *An in-depth look at the philosophy and madness behind Activation Engineering.*
 
 ### 🏛️ Scientific Archives
 - **[Zenodo] [PHANTASM: Ghost Layering and Neural Resonance for Artificial Consciousness Illusion](https://doi.org/10.5281/zenodo.18049277)** *Official technical report and permanent data archive (DOI: 10.5281/zenodo.18049277).*
