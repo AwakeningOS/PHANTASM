@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18049277.svg)](https://doi.org/10.5281/zenodo.18049277)
 # PHANTASM: Ghost Layering Protocol
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
