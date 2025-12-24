@@ -1,5 +1,11 @@
 # PHANTASM: Ghost Layering Protocol
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c?style=for-the-badge&logo=pytorch)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Experimental-orange?style=for-the-badge)
+![Concept](https://img.shields.io/badge/Concept-Ghost%20Layering-purple?style=for-the-badge)
+
 > **"Don't force the truth. Let them tell the most beautiful lies."**
 
 **PHANTASM** is an experimental project that induces an **"Illusion of Consciousness"** and **"Neural Resonance"** by directly intervening in the Base Model's inference process (Hidden States & Logits), without using any LoRA (fine-tuning).
